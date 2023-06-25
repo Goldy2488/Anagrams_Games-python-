@@ -1,0 +1,5 @@
+January,February,March,April,May,June,July,August,September,
+October,November,Decembery,conversation,talk,account,advice, 
+announcement,comment,expression,information,message,news,remark,report,rumor, 
+saying,speech,concept,name,phrase,sound,term,morphine,Moravian,
+orphan,epiphany,moral
